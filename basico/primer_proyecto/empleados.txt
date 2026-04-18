@@ -1,0 +1,5 @@
+=== NOMBRE y SALARIO ===
+
+sd - 4 
+gf - 3 
+hg6 - 32 

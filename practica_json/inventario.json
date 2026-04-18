@@ -1,0 +1,17 @@
+[
+    {
+        "articulo": "nevera",
+        "precio": 1800000,
+        "stock": 10
+    },
+    {
+        "articulo": "lavadora",
+        "precio": 2500000,
+        "stock": 25
+    },
+    {
+        "articulo": "monitor",
+        "precio": 950000,
+        "stock": 3
+    }
+]
